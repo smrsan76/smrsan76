@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my resume by maintaining one of the projects of [3gaam.com](https://3gaam.com).
+Please refer to :point_right: [@smrsan](https://github.com/smrsan)
